@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/online-food-markett/static/css/main.7acaea2f.css",
-    "main.js": "/online-food-markett/static/js/main.07d3183d.js",
-    "index.html": "/online-food-markett/index.html",
-    "main.7acaea2f.css.map": "/online-food-markett/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/online-food-markett/static/js/main.07d3183d.js.map"
+    "main.css": "/online-food-market/static/css/main.7acaea2f.css",
+    "main.js": "/online-food-market/static/js/main.07d3183d.js",
+    "index.html": "/online-food-market/index.html",
+    "main.7acaea2f.css.map": "/online-food-market/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/online-food-market/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
